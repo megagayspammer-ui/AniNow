@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Anikoto (example)",
+    "base_url": "https://anikoto.net",
+    "search_template": "https://anikoto.net/?s={query}",
+    "last_alive": null,
+    "dead_since": null,
+    "pending_delete": false
+  }
+]
